@@ -3,6 +3,7 @@ Documentation pour le menu d'accessibilité.
 Ce document présente les différentes fonctionnalités du menu d'accessibilité, leurs utilités et leurs fonctionnements.
 
 Accessibilité de l'interface du menu :
+
 Le menu est conçu pour être facilement utilisable par tous. Il prend en charge l'utilisation de lecteurs d'écran, rendant ainsi les informations audibles. De plus, la navigation au clavier est possible, ce qui signifie que vous pouvez explorer et sélectionner les options sans utiliser de souris. De plus, les éléments sont grands et bien espacés, et le texte est facile à lire.
 
 Écran d'accueil :
