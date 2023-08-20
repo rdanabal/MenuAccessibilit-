@@ -6,6 +6,7 @@ Accessibilité du Menu d'Accessibilité :
 Le menu est conçu pour être facilement utilisable par tous. Il prend en charge l'utilisation de lecteurs d'écran, rendant ainsi les informations audibles. De plus, la navigation au clavier est possible, ce qui signifie que vous pouvez explorer et sélectionner les options sans utiliser de souris. De plus, les éléments sont grands et bien espacés, et le texte est facile à lire.
 
 Écran d'accueil :
+
 Sur l'écran d'accueil du menu, vous trouverez trois boutons distincts, chacun menant à une catégorie de handicap spécifique : Visuel, Moteur et Cognitif. Chaque bouton vous permettra d'accéder à une sélection d'options et de fonctionnalités spécialement conçues pour répondre aux besoins de ces différentes catégories d'handicaps. De plus, un bouton pour quitter le menu est également disponible, vous permettant de retourner au jeu.
 
 Catégorie Visuel :
